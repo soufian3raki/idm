@@ -1,6 +1,5 @@
-#    ╔══════════════════════════════════╗
-#    ║ Internet Download Manager v6.x.x ║
-#    ╚══════════════════════════════════╝ 
+
+#    Internet Download Manager v6.x.x
 
 El código proporcionado es un programa en JavaScript que se encarga de generar claves de serie (serial keys) y mostrar información relacionada con el software "Internet Download Manager" (IDM). A continuación, se proporciona una descripción del código:
 

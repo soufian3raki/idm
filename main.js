@@ -63,7 +63,7 @@ function generateSerials(count) {
 }
 
 // Define una cabecera y texto informativo.
-const cabezera = `
+const cabecera = `
     ╔══════════════════════════════════╗
     ║ Internet Download Manager v6.x.x ║
     ╚══════════════════════════════════╝ 
@@ -95,7 +95,7 @@ const texto = `Edición del archivo Hosts para bloquear las actualizaciones de I
 console.clear();
 
 // Muestra la cabecera y mensajes informativos en la consola.
-console.log('%c' + cabezera, 'color: gray; font-size:20px; font-weight:bold');
+console.log('%c' + cabecera, 'color: gray; font-size:20px; font-weight:bold');
 console.log('%c ⚠️ IMPORTANTE:', 'color: red; font-weight:bold', 'Las claves generadas no funcionarán a menos que bloquees la verificación de licencia en línea de IDM con un crack o parche.');
 console.log('%c o: ', 'color: red; font-weight:bold', texto);
 

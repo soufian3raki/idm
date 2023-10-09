@@ -7,7 +7,7 @@ El código proporcionado es un programa en JavaScript que se encarga de generar 
 
 2. **Función `generateSerials`**: Esta función genera un arreglo de claves de serie llamando a la función `generateSerial` un número especificado de veces y almacenando las claves generadas en un arreglo. El número de claves a generar se especifica como argumento de la función.
 
-3. **Variables `cabezera` y `texto`**: Estas variables almacenan cadenas de texto que se utilizan para mostrar información sobre IDM en la consola. `cabezera` contiene una representación de un encabezado, y `texto` contiene instrucciones para editar el archivo "hosts" y bloquear las actualizaciones de IDM.
+3. **Variables `cabecera` y `texto`**: Estas variables almacenan cadenas de texto que se utilizan para mostrar información sobre IDM en la consola. `cabecera` contiene una representación de un encabezado, y `texto` contiene instrucciones para editar el archivo "hosts" y bloquear las actualizaciones de IDM.
 
 4. **Limpieza de la consola**: Antes de mostrar la información, se utiliza `console.clear()` para limpiar la consola y asegurarse de que la salida sea más legible.
 

@@ -1,3 +1,7 @@
+#    ╔══════════════════════════════════╗
+#    ║ Internet Download Manager v6.x.x ║
+#    ╚══════════════════════════════════╝ 
+
 El código proporcionado es un programa en JavaScript que se encarga de generar claves de serie (serial keys) y mostrar información relacionada con el software "Internet Download Manager" (IDM). A continuación, se proporciona una descripción del código:
 
 1. **Función `generateSerial`**: Esta función genera una clave de serie aleatoria siguiendo ciertos criterios. Utiliza un conjunto predefinido de caracteres hexadecimales almacenados en la variable `caracteresHex`. Luego, convierte estos caracteres hexadecimales en una cadena de caracteres legibles. La función genera una clave aleatoria y verifica si cumple con ciertas condiciones antes de devolverla.
